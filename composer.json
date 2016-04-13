@@ -1,12 +1,12 @@
 {
-    "name": "vendor_name/package_name",
-    "description": "description_text",
+    "name": "djmerelo/rabbitmq-example",
+    "description": "The code base to practise distinct types of publish in RabbitMQ",
     "minimum-stability": "stable",
-    "license": "proprietary",
+    "license": "",
     "authors": [
         {
-            "name": "author's name",
-            "email": "email@example.com"
+            "name": "David Juarez",
+            "email": "djmerelo@gmail.com"
         }
     ],
     "require": {
